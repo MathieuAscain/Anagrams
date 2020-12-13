@@ -2,6 +2,8 @@
 
 Exercise found in [www.csharpstar.com](https://www.csharpstar.com/csharp-algorithms/) for strings manipulation.
 
+![Terminal](anagram.jpg)
+
 ## Goal ##
 
 The goal was to make a program which check if the second string is an anagram to the first string.
